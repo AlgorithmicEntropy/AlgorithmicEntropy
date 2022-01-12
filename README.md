@@ -1,6 +1,6 @@
-## Hi, I’m @SebastianWallat,
+## Hi, I’m @AlgorithmicEntropy,
 
-I’m currently completing my bachlor computer science degree. :computer:  
+I’m currently working on my master computer science degree. :computer:  
 while working for the german aerospace center (DLR) :ringed_planet: 
   
 I like to play with IoT, cloud and distributed computing and tinkering with with electronics.  
