@@ -14,7 +14,7 @@ I like to play with IoT, cloud and distributed computing and tinkering with with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianWallat&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgorithmicEntropy&theme=blue-green)
 
 ### Technologies I used before
 
